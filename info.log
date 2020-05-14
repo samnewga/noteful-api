@@ -1,0 +1,36 @@
+{"message":"Cannot read property 'select' of undefined","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"Unable to acquire a connection","level":"error"}
+{"message":"newArticle is not defined","level":"error"}
+{"message":"insert into \"notes\" (\"content\", \"folder_id\", \"name\") values ($1, $2, $3) returning * - column \"folder_id\" of relation \"notes\" does not exist","level":"error"}
+{"message":"Note with 7 has been created","level":"info"}
+{"message":"notesService is not defined","level":"error"}
+{"message":"notesService is not defined","level":"error"}
+{"message":"foldersService.getById is not a function","level":"error"}
+{"message":"next is not defined","level":"error"}
+{"message":"select * from \"notes\" where \"folder_id\" = $1 - invalid input syntax for type integer: \"{\"folder_id\":\"1\"}\"","level":"error"}
+{"message":"Note with id 1 not found.","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"Cannot read property 'id' of undefined","level":"error"}
+{"message":"select * from \"notes\" where \"folder_id\" = $1 - invalid input syntax for type integer: \"[object Object]\"","level":"error"}
+{"message":"folder_id is not defined","level":"error"}
+{"message":"foldersService.getById is not a function","level":"error"}
+{"message":"foldersService.getFolderById is not a function","level":"error"}
+{"message":"Note with id 1 not found.","level":"error"}
+{"message":"select * from \"notes\" where \"folder_id\" = $1 - invalid input syntax for type integer: \"{\"folder_id\":\"1\"}\"","level":"error"}
+{"message":"select * from \"notes\" where \"folder_id\" = $1 - invalid input syntax for type integer: \"{\"folder_id\":\"1\"}\"","level":"error"}
+{"message":"foldersService.insertfolder is not a function","level":"error"}
+{"message":"foldersService.insertfolder is not a function","level":"error"}
+{"message":"folder with 4 has been created","level":"info"}
+{"message":"folder_id is required","level":"error"}
+{"message":"Note with 14 has been created","level":"info"}
+{"message":"delete from \"notes\" where \"id\" = $1 - invalid input syntax for type integer: \"{\"note_id\":\"14\"}\"","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"notes\" where \"id\" = ?","level":"error"}
+{"message":"The operator \"undefined\" is not permitted","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"notes\" where \"id\" = ?","level":"error"}
+{"message":"Undefined binding(s) detected when compiling DEL. Undefined column(s): [id] query: delete from \"notes\" where \"id\" = ?","level":"error"}
+{"message":"Note with id 13 deleted.","level":"info"}
+{"message":"Note with id 14 deleted.","level":"info"}
+{"message":"Note with 15 has been created","level":"info"}
+{"message":"Note with id 15 deleted.","level":"info"}
